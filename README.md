@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Web Developer | Full-Stack Enthusiast<br>🚀 Building modern, responsive & user-friendly web experiences<br>🛠️ Exploring JavaScript, React, Node.js & modern web technologies<br>📍 India<br>
+💻 Web Developer <br>🚀 Building modern, responsive & user-friendly web experiences<br>🛠️ Exploring JavaScript, React, Node.js & modern web technologies<br>📍 India<br>
 
 
 ## 🌐 Socials:
